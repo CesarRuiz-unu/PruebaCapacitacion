@@ -10,5 +10,6 @@ package com.mycompany.capcitacion;
  * @author Cesar
  */
 public class Capacitacion {
-    
+    //siguieten commit a usar
+    //prueba 1
 }
