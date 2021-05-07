@@ -12,4 +12,5 @@ package com.mycompany.capcitacion;
 public class Capacitacion {
     //siguieten commit a usar
     //prueba 1
+    //prueba 2 commit
 }
